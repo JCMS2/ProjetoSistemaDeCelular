@@ -1,0 +1,15 @@
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\bin\Debug\net8.0\DesafioTresSistemaDeCelular.exe
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\bin\Debug\net8.0\DesafioTresSistemaDeCelular.deps.json
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\bin\Debug\net8.0\DesafioTresSistemaDeCelular.runtimeconfig.json
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\bin\Debug\net8.0\DesafioTresSistemaDeCelular.dll
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\bin\Debug\net8.0\DesafioTresSistemaDeCelular.pdb
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\DesafioTresSistemaDeCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\DesafioTresSistemaDeCelular.AssemblyInfoInputs.cache
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\DesafioTresSistemaDeCelular.AssemblyInfo.cs
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\DesafioTresSistemaDeCelular.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\DesafioTresSistemaDeCelular.sourcelink.json
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\DesafioTresSistemaDeCelular.dll
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\refint\DesafioTresSistemaDeCelular.dll
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\DesafioTresSistemaDeCelular.pdb
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\DesafioTresSistemaDeCelular.genruntimeconfig.cache
+C:\Users\TI\Desktop\C#\BootCamp\Bootcamp-Avanade\ProjetosBootcamp\ProjetotresSistemaCelular\DesafioTresSistemaDeCelular\DesafioTresSistemaDeCelular\obj\Debug\net8.0\ref\DesafioTresSistemaDeCelular.dll

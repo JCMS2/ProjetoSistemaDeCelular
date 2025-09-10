@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D9915C-1B4B-40A4-B893-6B72CAC639AF}|DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular.csproj|c:\\users\\ti\\desktop\\c#\\bootcamp\\bootcamp-avanade\\projetosbootcamp\\projetotressistemacelular\\desafiotressistemadecelular\\desafiotressistemadecelular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D9915C-1B4B-40A4-B893-6B72CAC639AF}|DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular.csproj|solutionrelative:desafiotressistemadecelular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D9915C-1B4B-40A4-B893-6B72CAC639AF}|DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular.csproj|c:\\users\\ti\\desktop\\c#\\bootcamp\\bootcamp-avanade\\projetosbootcamp\\projetotressistemacelular\\desafiotressistemadecelular\\desafiotressistemadecelular\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D9915C-1B4B-40A4-B893-6B72CAC639AF}|DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular.csproj|solutionrelative:desafiotressistemadecelular\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D9915C-1B4B-40A4-B893-6B72CAC639AF}|DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular.csproj|c:\\users\\ti\\desktop\\c#\\bootcamp\\bootcamp-avanade\\projetosbootcamp\\projetotressistemacelular\\desafiotressistemadecelular\\desafiotressistemadecelular\\models\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D9915C-1B4B-40A4-B893-6B72CAC639AF}|DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular.csproj|solutionrelative:desafiotressistemadecelular\\models\\iphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D9915C-1B4B-40A4-B893-6B72CAC639AF}|DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular.csproj|c:\\users\\ti\\desktop\\c#\\bootcamp\\bootcamp-avanade\\projetosbootcamp\\projetotressistemacelular\\desafiotressistemadecelular\\desafiotressistemadecelular\\models\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D9915C-1B4B-40A4-B893-6B72CAC639AF}|DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular.csproj|solutionrelative:desafiotressistemadecelular\\models\\nokia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iphone.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular\\Models\\Iphone.cs",
+              "RelativeDocumentMoniker": "DesafioTresSistemaDeCelular\\Models\\Iphone.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular\\Models\\Iphone.cs",
+              "RelativeToolTip": "DesafioTresSistemaDeCelular\\Models\\Iphone.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:50:32.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nokia.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular\\Models\\Nokia.cs",
+              "RelativeDocumentMoniker": "DesafioTresSistemaDeCelular\\Models\\Nokia.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular\\Models\\Nokia.cs",
+              "RelativeToolTip": "DesafioTresSistemaDeCelular\\Models\\Nokia.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:50:25.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular\\Models\\Smartphone.cs",
+              "RelativeDocumentMoniker": "DesafioTresSistemaDeCelular\\Models\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular\\Models\\Smartphone.cs",
+              "RelativeToolTip": "DesafioTresSistemaDeCelular\\Models\\Smartphone.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:50:19.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioTresSistemaDeCelular\\Program.cs",
+              "ToolTip": "C:\\Users\\TI\\Desktop\\C#\\BootCamp\\Bootcamp-Avanade\\ProjetosBootcamp\\ProjetotresSistemaCelular\\DesafioTresSistemaDeCelular\\DesafioTresSistemaDeCelular\\Program.cs",
+              "RelativeToolTip": "DesafioTresSistemaDeCelular\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:48:30.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
